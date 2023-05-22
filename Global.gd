@@ -16,6 +16,21 @@ const dialogue_list = {
 		{"text":"test lmao kekw woo.", "author":"test", "anim":"none"},
 	],
 	
+	"poem":[
+		{"text":"i fear the blue check marks", "author":"test", "anim":"none"},
+		{"text":"like when thunder strikes a spark", "author":"test", "anim":"none"},
+		{"text":"sometimes the threat is far away", "author":"test", "anim":"none"},
+		{"text":"sometimes it's too near to stay", "author":"test", "anim":"none"},
+		{"text":"like a leaf that fell from a tree", "author":"test", "anim":"none"},
+		{"text":"i dunno what to say to thee", "author":"test", "anim":"none"},
+		{"text":"all i know is that its true, the fall", "author":"test", "anim":"none"},
+		{"text":"my speculation bout u not caring at all", "author":"test", "anim":"none"},
+		{"text":"whenever someone holds my hand", "author":"test", "anim":"none"},
+		{"text":"i avoid them cause i thought", "author":"test", "anim":"none"},
+		{"text":"if i was dedicated it would stand", "author":"test", "anim":"none"},
+		{"text":"but in the end i was met with naught", "author":"test", "anim":"none"},
+	]
+	
 }
 
 signal anim_finished
