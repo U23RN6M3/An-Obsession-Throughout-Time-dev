@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ember.mp3-b1d147b7b1cc732021d475c264d443b7.mp3str"
+
+[deps]
+
+source_file="res://Dialogue/Voices/ember.mp3"
+dest_files=[ "res://.import/ember.mp3-b1d147b7b1cc732021d475c264d443b7.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

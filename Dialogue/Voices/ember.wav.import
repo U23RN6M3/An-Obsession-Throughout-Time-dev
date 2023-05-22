@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ember.wav-8431f5a57ec54f0aa566e8767d9c205d.sample"
+
+[deps]
+
+source_file="res://Dialogue/Voices/ember.wav"
+dest_files=[ "res://.import/ember.wav-8431f5a57ec54f0aa566e8767d9c205d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

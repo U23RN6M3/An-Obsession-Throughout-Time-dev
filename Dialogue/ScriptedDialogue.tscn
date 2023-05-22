@@ -1,0 +1,42 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Dialogue/ScriptedDialogue.gd" type="Script" id=1]
+
+[node name="ScriptedDialogue" type="Node"]
+script = ExtResource( 1 )
+queue = [ {
+"activated": true,
+"can_control": true,
+"remove_cinematics": false,
+"silent": false,
+"source": "test_dialogue_2",
+"test_mode": false
+}, {
+"activated": false,
+"can_control": true,
+"remove_cinematics": false,
+"silent": false,
+"source": "test_dialogue_2",
+"test_mode": false
+}, {
+"activated": false,
+"can_control": true,
+"remove_cinematics": false,
+"silent": false,
+"source": "test_dialogue_2",
+"test_mode": false
+}, {
+"activated": false,
+"can_control": true,
+"remove_cinematics": false,
+"silent": false,
+"source": "test_dialogue_2",
+"test_mode": false
+}, {
+"activated": false,
+"can_control": true,
+"remove_cinematics": false,
+"silent": false,
+"source": "test_dialogue_2",
+"test_mode": false
+} ]
