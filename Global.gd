@@ -29,6 +29,12 @@ const dialogue_list = {
 		{"text":"i avoid them cause i thought", "author":"test", "anim":"none"},
 		{"text":"if i was dedicated it would stand", "author":"test", "anim":"none"},
 		{"text":"but in the end i was met with naught", "author":"test", "anim":"none"},
+		{"text":"what", "author":"test", "anim":"none"},
+		{"text":"wait so she was talking to a chatbot?", "author":"test", "anim":"none"},
+		{"text":"oh?", "author":"test", "anim":"none"},
+		{"text":"oh...", "author":"test", "anim":"none"},
+		{"text":"oh!", "author":"test", "anim":"none"},
+		{"text":"oh....", "author":"test", "anim":"none"},
 	]
 	
 }
