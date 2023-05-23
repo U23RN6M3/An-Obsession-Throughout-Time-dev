@@ -25,7 +25,7 @@ const dialogue_list = {
 		{"text":"i dunno what to say to thee", "author":"test", "anim":"none"},
 		{"text":"all i know is that its true, the fall", "author":"test", "anim":"none"},
 		{"text":"my speculation bout u not caring at all", "author":"test", "anim":"none"},
-		{"text":"whenever someone holds my hand", "author":"test", "anim":"none"},
+		{"text":"whenever somebody holds my hand", "author":"test", "anim":"none"},
 		{"text":"i avoid them cause i thought", "author":"test", "anim":"none"},
 		{"text":"if i was dedicated it would stand", "author":"test", "anim":"none"},
 		{"text":"but in the end i was met with naught", "author":"test", "anim":"none"},
